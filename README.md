@@ -1,6 +1,6 @@
 # Ray Tracer Híbrido (C e Lua)
 
-Este repositório contém a implementação de um gerador de imagens estáticas (Ray Tracing simples) desenvolvido para a disciplina de Conceitos de Linguagens de Programação, utilizando duas linguagens de programação com vocações distintas operando em conjunto.
+Este repositório contém a implementação de um gerador de imagens estáticas (Ray Tracing simples) desenvolvido para a disciplina de [Conceitos de Linguagens de Programação](https://institucional.ufpel.edu.br/en/disciplinas/id/10139), utilizando duas linguagens de programação com vocações distintas operando em conjunto.
 
 ## Estrutura de Arquivos
 O repositório é composto pelos seguintes diretórios e arquivos:

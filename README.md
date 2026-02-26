@@ -8,6 +8,7 @@ O repositório é composto pelos seguintes diretórios e arquivos:
 * `interface.lua`: Script de interface do usuário escrito em Lua, responsável por definir parâmetros e acionar a geração da imagem.
 * `Makefile`: Arquivo de automação contendo as regras de compilação do executável e a execução do caso de estudo.
 * `src/`: Diretório contendo o código-fonte original do interpretador Lua (versão 5.5.0). 
+* `DocumentacaoRT.pdf`: Documento com explicação teórica da implementação e do método de interface entre as linguagens.
 
 ## Como Compilar
 Não é necessário instalar pacotes extras ou o interpretador Lua nativamente no sistema, pois o projeto compila sua própria máquina virtual embutida a partir da pasta `src`.
